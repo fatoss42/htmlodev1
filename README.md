@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FATMANIN SAYFASI</title>
+  
 </head>
 <body>
     <h1>Fatma AKKOYUN</h1>
@@ -14,7 +14,6 @@
         <li>La casa de papel</li>
           <li>Ragnarok</li>  
            <li>Yaprak dökümü</li>
-        
     </ul>
 </body>
 </html>
